@@ -1,2 +1,2 @@
 # word-counter
-It is a word counter example.
+It counts words and characters in a paragraph.
