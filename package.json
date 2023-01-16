@@ -1,6 +1,6 @@
 {
-    "name": "word-counter",
-    "version": "1.0.0",
+    "name": "word-counter-by-bilal",
+    "version": "1.0.2",
     "description": "It is a word counter example.",
     "main": "index.js",
     "type": "module",
